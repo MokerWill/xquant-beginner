@@ -487,3 +487,15 @@ open-xquant 在 `agent/bootstrap/` 目录提供了一套量化研究专用的 ha
 - **神经网络**：能捕捉更复杂的非线性关系，但需要更多数据
 
 核心思路都一样：把因子当作特征，未来收益当作标签，让模型学出最优的组合方式。这是你未来进入实战后可以深入探索的方向——但本书的主线已经够你跑很久了，**先把第八章的迭代闭环跑顺，再考虑加机器学习**。
+
+---
+
+## 反馈与读者群
+
+如果你发现本章有错别字、概念不清或实验结果不一致，欢迎
+[提交 GitHub Issue](https://github.com/xingwudao/xquant-beginner/issues/new/choose)。
+
+课程、正式书和后续更新见
+[xquant.shop/courses](https://xquant.shop/courses)。
+
+添加作者微信 `xquanter` 进入读者群。请备注：`XQuant 读者`。

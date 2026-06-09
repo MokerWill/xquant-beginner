@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 课程与正式书信息
+    url: https://xquant.shop/courses
+    about: 查看 XQuant 课程、正式书和后续更新。
+  - name: 读者群
+    url: https://github.com/xingwudao/xquant-beginner/blob/main/book/feedback.md
+    about: 添加作者微信 xquanter 进入读者群。

@@ -7,6 +7,12 @@ spec 与 notebook 不放在这里，统一维护在：
 
 `https://github.com/xingwudao/xquant-learning`
 
+课程与正式书信息：
+
+`https://xquant.shop/courses`
+
+添加作者微信 `xquanter` 进入读者群。请备注：`XQuant 读者`。
+
 ## 开始阅读
 
 - [前言](book/preface.md)
@@ -14,6 +20,12 @@ spec 与 notebook 不放在这里，统一维护在：
 - [第 1 章：第一次跑通一个完整策略](book/q1-how-to-profit.md)
 
 完整目录见 [SUMMARY.md](SUMMARY.md)。
+
+## 反馈与读者群
+
+- [提交书稿反馈](book/feedback.md)
+- [参与贡献说明](CONTRIBUTING.md)
+- 添加作者微信 `xquanter` 进入读者群
 
 ## 在线发布
 
@@ -51,9 +63,20 @@ npm run docs:preview
 
 `https://github.com/xingwudao/xquant-learning`
 
+## 课程与正式书
+
+课程、正式书和后续更新会放在主站：
+
+`https://xquant.shop/courses`
+
 ## 许可证
 
 本仓库采用双许可证：
 
 - 书稿正文与图片：`CC BY-NC-SA 4.0`
 - 构建脚本、配置文件和自动化工作流：`MIT`
+
+## 风险提示
+
+本书只用于教育和研究，不构成投资建议。历史表现不代表未来收益，
+任何策略都可能亏损。

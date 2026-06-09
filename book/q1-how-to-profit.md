@@ -671,3 +671,15 @@ AI 帮你做了这些事：把数据按时间顺序在第 60% 的位置一刀切
 | 成本差 | 频繁操作累积成本，可能吃掉一半本金 | 明确规则约束，不频繁操作 |
 
 量化不能保证赚钱，但能让你在更公平的位置上竞争。
+
+---
+
+## 反馈与读者群
+
+如果你发现本章有错别字、概念不清或实验结果不一致，欢迎
+[提交 GitHub Issue](https://github.com/xingwudao/xquant-beginner/issues/new/choose)。
+
+课程、正式书和后续更新见
+[xquant.shop/courses](https://xquant.shop/courses)。
+
+添加作者微信 `xquanter` 进入读者群。请备注：`XQuant 读者`。

@@ -10,6 +10,8 @@ export default defineConfig({
   themeConfig: {
     nav: [
       { text: '阅读', link: '/book/preface' },
+      { text: '反馈', link: '/book/feedback' },
+      { text: '课程', link: 'https://xquant.shop/courses' },
       { text: '配套练习', link: 'https://github.com/xingwudao/xquant-learning' }
     ],
     sidebar: [
@@ -27,12 +29,13 @@ export default defineConfig({
           { text: '第 6 章：看清好看的回测', link: '/book/q6-avoid-overfitting' },
           { text: '第 7 章：真的下单', link: '/book/q7-execution' },
           { text: '第 8 章：让策略活着', link: '/book/q8-iteration' },
-          { text: '第 9 章：持续寻找盈利机会', link: '/book/q9-daily-work' }
+          { text: '第 9 章：持续寻找盈利机会', link: '/book/q9-daily-work' },
+          { text: '反馈与读者群', link: '/book/feedback' }
         ]
       }
     ],
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/xingwudao/xquant-learning' }
+      { icon: 'github', link: 'https://github.com/xingwudao/xquant-beginner' }
     ],
     outline: {
       label: '本页目录',

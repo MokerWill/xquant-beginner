@@ -521,3 +521,15 @@ open-xquant 的 `Strategy` 支持在创建时填写 `hypothesis`（假设）和 
 **记录（对应第 3 步 迭代记录表）。** 每次迭代都填迭代记录表。三个月后回头看，你会发现大部分假设都被推翻了——但你从每次推翻中学到的东西比确认更多。这些记录就是你的成长轨迹。
 
 **一句话：** 策略层面的方法论你已经有了；接下来三年里能不能跑通，取决于你“耐心 / 纪律 / 记录”这三条软纪律守得有多严。这是带得走的“心态地图”。
+
+---
+
+## 反馈与读者群
+
+如果你发现本章有错别字、概念不清或实验结果不一致，欢迎
+[提交 GitHub Issue](https://github.com/xingwudao/xquant-beginner/issues/new/choose)。
+
+课程、正式书和后续更新见
+[xquant.shop/courses](https://xquant.shop/courses)。
+
+添加作者微信 `xquanter` 进入读者群。请备注：`XQuant 读者`。

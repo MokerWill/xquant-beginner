@@ -12,3 +12,4 @@
 * [第 7 章：真的下单](book/q7-execution.md)
 * [第 8 章：让策略活着](book/q8-iteration.md)
 * [第 9 章：持续寻找盈利机会](book/q9-daily-work.md)
+* [反馈与读者群](book/feedback.md)

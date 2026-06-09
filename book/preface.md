@@ -174,3 +174,15 @@
 - 量化框架：https://github.com/xingwudao/open-xquant
 
 地图就到这里。下一节“开始动手之前”是一次性准备——把 AI 编程工具和 Python 环境装好，顺便用“装环境”这件事完整地写一份 spec。一次配完，第 1 章我们就直接跑实验。
+
+---
+
+## 反馈与读者群
+
+如果你发现本章有错别字、概念不清或链接问题，欢迎
+[提交 GitHub Issue](https://github.com/xingwudao/xquant-beginner/issues/new/choose)。
+
+课程、正式书和后续更新见
+[xquant.shop/courses](https://xquant.shop/courses)。
+
+添加作者微信 `xquanter` 进入读者群。请备注：`XQuant 读者`。

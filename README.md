@@ -7,6 +7,16 @@ spec 与 notebook 不放在这里，统一维护在：
 
 `https://github.com/xingwudao/xquant-learning`
 
+在线阅读：
+
+`https://xingwudao.github.io/xquant-beginner/`
+
+课程与正式书信息：
+
+`https://xquant.shop/courses`
+
+添加作者微信 `xquanter` 进入读者群。请备注：`XQuant 读者`。
+
 ## 在线发布
 
 本仓库支持两种发布方式：
@@ -17,6 +27,18 @@ spec 与 notebook 不放在这里，统一维护在：
 ## 本地阅读
 
 直接从 `SUMMARY.md` 开始阅读，或打开 `book/` 目录下的章节文件。
+
+## 反馈与读者群
+
+如果你发现错别字、概念不清或实验结果不一致，请提交 Issue：
+
+`https://github.com/xingwudao/xquant-beginner/issues/new/choose`
+
+参与反馈前建议阅读：
+
+`CONTRIBUTING.md`
+
+添加作者微信 `xquanter` 进入读者群。请备注：`XQuant 读者`。
 
 ## 本地预览静态站点
 
@@ -50,6 +72,15 @@ npm run docs:preview
 阅读正文时，如果看到类似 `q1-how-to-profit/specs/` 的路径，
 请到 `xquant-learning` 仓库中查看对应文件。
 
+## 课程与正式书
+
+课程、正式书和后续更新会放在主站：
+
+`https://xquant.shop/courses`
+
+本仓库是开源书稿版本，用于公开阅读和收集反馈。正式书会在吸收
+开源反馈后整理为更稳定的版本。
+
 ## 许可证
 
 本仓库采用双许可证：
@@ -59,3 +90,8 @@ npm run docs:preview
 
 也就是说，你可以在署名、非商业、相同方式共享的前提下传播和改编
 书稿内容；构建相关代码和配置可按 MIT 许可证使用。
+
+## 风险提示
+
+本书只用于教育和研究，不构成投资建议。历史表现不代表未来收益，
+任何策略都可能亏损。

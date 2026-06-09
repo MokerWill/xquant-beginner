@@ -1,0 +1,32 @@
+name: 概念没看懂
+description: 反馈某个概念、类比或推导不够清楚。
+title: "clarity: "
+labels:
+  - clarity
+body:
+  - type: input
+    id: chapter
+    attributes:
+      label: 章节
+    validations:
+      required: true
+  - type: input
+    id: section
+    attributes:
+      label: 小节
+    validations:
+      required: true
+  - type: textarea
+    id: confusing
+    attributes:
+      label: 没看懂的内容
+      description: 请粘贴原文，或描述你卡住的位置。
+    validations:
+      required: true
+  - type: textarea
+    id: expectation
+    attributes:
+      label: 希望补充什么
+      description: 例如：需要生活类比、需要公式解释、需要多一个例子。
+    validations:
+      required: true
