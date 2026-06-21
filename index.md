@@ -18,8 +18,8 @@ spec 与 notebook 不放在这里，统一维护在：
 ## 开始阅读
 
 - [前言](book/preface.md)
-- [开始动手之前](book/getting-started.md)
-- [第 1 章：第一次跑通一个完整策略](book/q1-how-to-profit.md)
+- [准备工作](book/getting-started.md)
+- [第 1 章：跑通第一个策略](book/q1-how-to-profit.md)
 
 完整目录见 [SUMMARY.md](SUMMARY.md)。
 
